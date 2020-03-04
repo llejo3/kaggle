@@ -1,0 +1,6 @@
+
+*.csv
+*.ttf
+*.pyc
+*.parquet
+*.h5
